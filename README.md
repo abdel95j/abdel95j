@@ -1,13 +1,4 @@
-# 👋 Salut, moi c’est Abdelah EL HARSAL
-
-🎓 Élève ingénieur en informatique à **CY Tech**, passionné par la cybersécurité, le développement logiciel, et la data.  
-💼 Alternant au **Conseil Départemental du Val d’Oise**, j’y gère le scripting, la supervision, et l’administration système.
-
-💡 Curieux, rigoureux et polyvalent, j’ai conçu plusieurs projets alliant programmation système, web et outils graphiques.
-
----
-
-## 🚀 Mes projets phares
+## 🚀 Mes projets 
 
 ### 🎮 C-Pokemon *(C, ncurses)*
 Clone du jeu Pokémon en ligne de commande avec choix de starter, combat, inventaire, shop et ligue.  
@@ -27,7 +18,7 @@ Environnement graphique basé sur un langage personnalisé qui génère du C et 
 
 ---
 
-### 🚚 Cy-Truck *(Java, logistique)*  
+### 🚚 Cy-Truck *(C, Shell)*  
 Simulateur de tournées optimisées pour une entreprise de transport de colis en environnement contraint.  
 > 📦 Algorithmes d’ordonnancement et optimisation de tournée.
 
@@ -35,6 +26,5 @@ Simulateur de tournées optimisées pour une entreprise de transport de colis en
 
 ## 📫 Contact
 
-- ✉️ abdelah.elharsal@gmail.com  
 - 🌐 [Mon site](https://abdel95j.github.io)
 
