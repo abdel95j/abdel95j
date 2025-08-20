@@ -26,5 +26,5 @@ Simulateur de tournées optimisées pour une entreprise de transport de colis en
 
 ## 📫 Contact
 
-- 🌐 [Mon site](https://abdel95j.github.io/portfolio/)
+- 🌐 [Mon site](https://abdel95j.github.io/)
 
