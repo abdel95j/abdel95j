@@ -1,5 +1,13 @@
 ## 🚀 Mes projets 
 
+### 🔎 [FactNet](https://github.com/abdel95j/FactNet) *(Python, PyTorch, IA / Graph Neural Networks)*
+
+Projet de recherche collaboratif réalisé lors d'un stage international à **Universiti Malaya (Kuala Lumpur, 2026)**. Détection de désinformation sur les réseaux sociaux par analyse du contenu et des réseaux de propagation.
+
+> 🌐 Modèles de langage, réseaux de neurones sur graphes et interface web interactive.
+
+---
+
 ### 🎮 C-Pokemon *(C, ncurses)*
 Clone du jeu Pokémon en ligne de commande avec choix de starter, combat, inventaire, shop et ligue.  
 > 💬 "Un retour à l’essentiel en ASCII."
